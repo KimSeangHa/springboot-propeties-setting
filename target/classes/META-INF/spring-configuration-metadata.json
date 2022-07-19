@@ -1,0 +1,32 @@
+{
+  "groups": [
+    {
+      "name": "kshman",
+      "type": "test.KshmanProperties",
+      "sourceType": "test.KshmanProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "kshman.age",
+      "type": "java.lang.Integer",
+      "sourceType": "test.KshmanProperties"
+    },
+    {
+      "name": "kshman.full-name",
+      "type": "java.lang.String",
+      "sourceType": "test.KshmanProperties"
+    },
+    {
+      "name": "kshman.name",
+      "type": "java.lang.String",
+      "sourceType": "test.KshmanProperties"
+    },
+    {
+      "name": "kshman.session-timeout",
+      "type": "java.time.Duration",
+      "sourceType": "test.KshmanProperties"
+    }
+  ],
+  "hints": []
+}
